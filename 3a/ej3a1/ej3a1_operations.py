@@ -2,20 +2,20 @@
 
 
 def add(num_1: float, num_2: float) -> float:
-    # Write here your code
-    pass
+    add = num_1 + num_2
+    return add
 
 
 def subtract(num_1: float, num_2: float) -> float:
-    # Write here your code
-    pass
+    subtract = num_1 - num_2
+    return subtract
 
 
 def multiply(num_1: float, num_2: float) -> float:
-    # Write here your code
-    pass
+    multiply = num_1 * num_2
+    return multiply
 
 
 def divide(num_1: float, num_2: float) -> float:
-    # Write here your code
-    pass
+    divide = num_1 / num_2
+    return divide

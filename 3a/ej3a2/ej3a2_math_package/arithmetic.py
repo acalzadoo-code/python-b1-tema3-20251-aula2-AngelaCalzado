@@ -2,11 +2,11 @@
 import math
 
 def power(base: float, exponent: float) -> float:
-	# Write your code here
-	pass
+	resultado = math.pow(base, exponent)
+	return resultado
 
 def square_root(num_1: float) -> float:
-	# Write your code here
-	pass
+	resultado = math.sqrt(num_1)
+	return resultado
 
 
